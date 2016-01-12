@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/01/2016, 09:19:35
+    Author     : MICHELPL
+*/
+
+.label-format {
+    padding-right: 25px;
+}
+
+.div-format-fields {
+    padding-bottom: 10px;
+}
+
+.div-format-fields input, select {
+    font-size: 18px;
+}
+
+body {
+    padding: 20px 50px 20px 50px;
+}
